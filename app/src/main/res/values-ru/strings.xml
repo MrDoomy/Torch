@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">О программе</string>
+    <string name="add">Добавить</string>
+    <string name="amber">Янтарный</string>
+    <string name="app_name">Фонарик</string>
+    <string name="apply">Apply to the screen ?</string>
+    <string name="blue">Синий</string>
+    <string name="blueGrey">Сине-серый</string>
+    <string name="brown">Коричневый</string>
+    <string name="choose">Выберите цвет</string>
+    <string name="color">Цвет</string>
+    <string name="colorful">Цветной экран</string>
+    <string name="copyright">Copyright © 2014 Damien Chazoule</string>
+    <string name="custom">Customization</string>
+    <string name="cyan">Циан</string>
+    <string name="deepOrange">Глубокий оранжевый</string>
+    <string name="deepPurple">Глубокий лиловый</string>
+    <string name="developer">Torch for Android devices is built with love using open source software.</string>
+    <string name="disabled">Выключено</string>
+    <string name="discolored">Screen discolored</string>
+    <string name="enabled">Включено</string>
+    <string name="first">"Это приложение - минималистичный фонарик.
+
+Включается тапом, выключается очередным тапом.
+
+Если желаете изменить настройки, коснитесь и удержите палец в центре экрана.
+
+Если устройство не имеет светодиодной вспышки, выберите альтернативный метод работы в настройках.
+
+Наслаждайтесь ;)"</string>
+    <string name="flashDevice">/sys/class/leds/flashlight/brightness</string>
+    <string name="green">Зеленый</string>
+    <string name="grey">Серый</string>
+    <string name="hello">Привет !</string>
+    <string name="hide">Видимость</string>
+    <string name="indigo">Индиго</string>
+    <string name="lightBlue">Светло-голубой</string>
+    <string name="lightGreen">Светло-зеленый</string>
+    <string name="lime">Лайм</string>
+    <string name="message">"Действительно желаете спрятать значок приложения из меню ? В таком случае приложение закроется но виджет будет доступен. 
+
+"<b>Осторожно ! Это действие необратимо!</b></string>
+    <string name="mode">Режим</string>
+    <string name="no">Нет</string>
+    <string name="okay">Ok</string>
+    <string name="orange">Оранжевый</string>
+    <string name="pink">Розовый</string>
+    <string name="purple">Лиловый</string>
+    <string name="red">Красный</string>
+    <string name="screen">Экран</string>
+    <string name="settings">Настройки</string>
+    <string name="sos">SOS</string>
+    <string name="teal">Чирок</string>
+    <string name="title">Спрятать значок ?</string>
+    <string name="torch_title">Фонарик включен</string>
+    <string name="torch_toggle">Коснитесь для отключения</string>
+    <string name="url">https://github.com/MrDoomy/Torch</string>
+    <string name="widget">Виджет</string>
+    <string name="yellow">Желтый</string>
+    <string name="yes">Да</string>
+</resources>
